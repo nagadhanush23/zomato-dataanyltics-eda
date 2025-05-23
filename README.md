@@ -20,26 +20,47 @@ The aim of this analysis is to answer key business-driven questions such as:
 #### 📌 **Primary Business Questions**
 
 1️⃣ What type of restaurant do the majority of customers order from?
+
 2️⃣ How many votes has each type of restaurant received from customers?
+
 3️⃣ What are the ratings that the majority of restaurants have received?
+
 4️⃣ Zomato has observed that most couples order most of their food online. What is their average spending on each order?
+
 5️⃣ Which mode (online or offline) has received the maximum rating?
+
 6️⃣ Which type of restaurant received more offline orders, so that Zomato can provide those customers with special offers?
+
 7️⃣ Which restaurants have received the highest number of votes?
+
 8️⃣ How is the cost for two people distributed across restaurants?
+
 9️⃣ What is the average rating for online vs offline orders?
+
 🔟 What are the top 5 most common restaurant types?
+
 1️⃣1️⃣ How many restaurants offer table booking services?
+
 1️⃣2️⃣ What is the correlation between numerical features like cost, votes, and ratings?
+
 1️⃣3️⃣ Which are the top 10 most popular restaurants by vote count?
+
 1️⃣4️⃣ What is the relationship between the cost for two people and restaurant ratings?
+
 1️⃣5️⃣ How do votes differ between restaurants offering table booking and those that don't?
+
 1️⃣6️⃣ Which are the highest-rated restaurants offering online orders?
+
 1️⃣7️⃣ What percentage of restaurants offer online ordering and table booking?
+
 1️⃣8️⃣ How many restaurants fall into each cost category (Cheap, Mid-Range, Premium, Luxury)?
+
 1️⃣9️⃣ What is the average rating for each cost category?
+
 2️⃣0️⃣ What is the average number of votes received by each restaurant type?
+
 2️⃣1️⃣ Which restaurant types are most popular for online orders?
+
 2️⃣2️⃣ What is the distribution of restaurant ratings into ranges (e.g. 3.5-4.0, 4.0-4.5, etc.)?
 
 ---
